@@ -31,3 +31,15 @@
 .navbar-sticky {
   opacity: 0.8;
 }
+
+@media (max-width: 62em) {
+  .xl-text {
+    font-size: 3.125rem;
+  }
+
+  .header {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.8)),
+      url('../images/header-background.jpg') center center no-repeat;
+    text-align: center;
+  }
+}
