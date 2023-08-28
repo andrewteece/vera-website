@@ -114,13 +114,13 @@
   }
 }
 .video-modal .modal-dialog {
-  max-width: 1150px;
-  margin-top: 20px;
+  max-width: 71.875rem;
+  margin-top: 1.25rem;
 }
 
 .project-modals .modal-dialog {
-  max-width: 1150px;
-  margin-top: 130px;
+  max-width: 71.875rem;
+  margin-top: 8.125rem;
 }
 
 @media (max-width: 62em) {
@@ -136,6 +136,6 @@
     text-align: center;
   }
   .video-points .col-lg-4 {
-    margin-bottom: 20px;
+    margin-bottom: 1.25rem;
   }
 }
